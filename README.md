@@ -52,3 +52,12 @@ Built for degens, builders, and onchain explorers.
 - Onchain AI tools
 - AI agents on Base
 
+## Gaming
+- Blockchain games
+- Onchain gaming infra
+
+## Bridges
+- Across
+- Stargate
+- Orbiter
+
