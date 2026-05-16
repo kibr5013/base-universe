@@ -68,3 +68,24 @@ Built for degens, builders, and onchain explorers.
 
 ---
 
+# Why Base?
+
+Base is one of the fastest-growing Ethereum Layer 2 ecosystems with:
+- Cheap transactions
+- Massive adoption
+- Coinbase backing
+- Strong developer ecosystem
+- Onchain future
+
+---
+
+# Contributing
+
+Want to add a project?
+Open a PR and contribute to the Base Universe.
+
+---
+
+# License
+
+MIT
