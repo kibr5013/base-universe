@@ -13,7 +13,7 @@ base-universe/
 ├── builders/
 ├── guides/
 ├── airdrops/
-├── ecosystem-map/
+├── ecosystem-map/ 
 ├── tools/
 ├── analytics/
 ├── memes/
