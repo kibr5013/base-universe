@@ -40,3 +40,15 @@ Explore:
 Built for degens, builders, and onchain explorers.
 
 ---
+
+# Ecosystem Categories
+
+## DeFi
+- Aerodrome
+- Uniswap
+- Moonwell
+
+## AI
+- Onchain AI tools
+- AI agents on Base
+
