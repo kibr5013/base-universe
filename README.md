@@ -20,3 +20,23 @@ base-universe/
 ├── resources/
 │
 └── README.md
+
+# Base Universe
+
+Welcome to the biggest community-driven directory for the Base ecosystem.
+
+Explore:
+- DeFi
+- AI
+- NFTs
+- Bridges
+- Wallets
+- Gaming
+- SocialFi
+- Infrastructure
+- Airdrops
+- Builders
+
+Built for degens, builders, and onchain explorers.
+
+---
