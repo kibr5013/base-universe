@@ -61,3 +61,10 @@ Built for degens, builders, and onchain explorers.
 - Stargate
 - Orbiter
 
+## Wallets
+- Coinbase Wallet
+- Rainbow
+- MetaMask
+
+---
+
