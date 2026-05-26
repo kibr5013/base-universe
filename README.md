@@ -8,7 +8,7 @@ base-universe/
 │   ├── nft/
 │   ├── ai/
 │   ├── gaming/
-│   ├── socialfi/
+│   ├── socialfi/ 
 │
 ├── builders/
 ├── guides/
